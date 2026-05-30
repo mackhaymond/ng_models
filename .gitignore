@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Agent / editor tooling scratch (not curriculum content)
+.omo/
+.codegraph/
+.cursor/
+.agent_private/.gitignore
+
+# OS
+.DS_Store
